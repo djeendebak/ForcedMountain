@@ -1,14 +1,9 @@
 ﻿using BepInEx;
-using R2API;
 using RoR2;
 using UnityEngine;
 
 namespace ForcedMountain
 {
-
-
-    [BepInDependency(ItemAPI.PluginGUID)]
-    [BepInDependency(LanguageAPI.PluginGUID)]
     [BepInPlugin(PluginGUID, PluginName, PluginVersion)]
 
     public class ForcedMountain : BaseUnityPlugin
