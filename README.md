@@ -2,7 +2,7 @@ ForcedMountain
 A simple mod for Risk of Rain 2
 V1.0.0 - 22/06/2024
 
-# Made by @djeendebak
+### Made by @djeendebak
 
 ## Current Functionality
 - Only lets you activate the portal if all mountain shrines have been activated.
