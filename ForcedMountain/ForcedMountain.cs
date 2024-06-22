@@ -36,7 +36,6 @@ namespace ForcedMountain
             {
                 mountainShrineCount += 1;
                 Log.Info($"Found one shrine, current shrines = {mountainShrineCount}");
-
             }
             return orig(self, directorSpawnRequest);
         }
@@ -44,8 +43,7 @@ namespace ForcedMountain
         private void ResetShrineCount(SceneDirector director, DirectorCardCategorySelection selection)
         {
             mountainShrineCount = 0;
-            
-            Log.Info($"ForcedMountain ResetShrine Called, current shrines = {mountainShrineCount}");
+            // Log.Info($"ForcedMountain ResetShrine Called, current shrines = {mountainShrineCount}");
         }
 
         private Interactability TeleporterInteraction_GetInteractability(On.RoR2.TeleporterInteraction.orig_GetInteractability orig, TeleporterInteraction self, Interactor activator)
