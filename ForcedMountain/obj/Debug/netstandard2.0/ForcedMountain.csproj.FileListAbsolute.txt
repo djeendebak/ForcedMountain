@@ -1,0 +1,10 @@
+c:\Users\dirkj\OneDrive\Documenten\DEV\ForcedMountain\ForcedMountain\bin\Debug\netstandard2.0\ForcedMountain.deps.json
+C:\Users\dirkj\OneDrive\Documenten\DEV\ForcedMountain\ForcedMountain\bin\Debug\netstandard2.0\ForcedMountain.dll
+C:\Users\dirkj\OneDrive\Documenten\DEV\ForcedMountain\ForcedMountain\bin\Debug\netstandard2.0\ForcedMountain.pdb
+C:\Users\dirkj\OneDrive\Documenten\DEV\ForcedMountain\ForcedMountain\obj\Debug\netstandard2.0\ForcedMountain.csproj.AssemblyReference.cache
+C:\Users\dirkj\OneDrive\Documenten\DEV\ForcedMountain\ForcedMountain\obj\Debug\netstandard2.0\ForcedMountain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dirkj\OneDrive\Documenten\DEV\ForcedMountain\ForcedMountain\obj\Debug\netstandard2.0\ForcedMountain.AssemblyInfoInputs.cache
+C:\Users\dirkj\OneDrive\Documenten\DEV\ForcedMountain\ForcedMountain\obj\Debug\netstandard2.0\ForcedMountain.AssemblyInfo.cs
+C:\Users\dirkj\OneDrive\Documenten\DEV\ForcedMountain\ForcedMountain\obj\Debug\netstandard2.0\ForcedMountain.csproj.CoreCompileInputs.cache
+C:\Users\dirkj\OneDrive\Documenten\DEV\ForcedMountain\ForcedMountain\obj\Debug\netstandard2.0\ForcedMountain.dll
+C:\Users\dirkj\OneDrive\Documenten\DEV\ForcedMountain\ForcedMountain\obj\Debug\netstandard2.0\ForcedMountain.pdb
