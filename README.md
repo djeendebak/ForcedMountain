@@ -8,6 +8,8 @@ V1.0.0 - 22/06/2024
 - Only lets you activate the portal if all mountain shrines have been activated.
 
 ## Possible Future Additions
+- Add messages to people trying to active the portal before all mountain shrines
+- Add messages to show the amount of mountains shrines in the map
 - Add a scanner to the portal to find the remaining mountain shrines
 - Add an on screen counter for the mountain shrines
 
