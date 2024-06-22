@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iIZeXpoYjPY=",
+  "dgSpecHash": "CGhzl2xQ7Lg=",
   "success": true,
   "projectFilePath": "C:\\Users\\dirkj\\OneDrive\\Documenten\\DEV\\ForcedMountain\\ForcedMountain\\ForcedMountain.csproj",
   "expectedPackageFiles": [
@@ -15,12 +15,7 @@
     "C:\\Users\\dirkj\\.nuget\\packages\\monomod.runtimedetour\\21.12.13.1\\monomod.runtimedetour.21.12.13.1.nupkg.sha512",
     "C:\\Users\\dirkj\\.nuget\\packages\\monomod.utils\\21.12.13.1\\monomod.utils.21.12.13.1.nupkg.sha512",
     "C:\\Users\\dirkj\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\dirkj\\.nuget\\packages\\r2api.contentmanagement\\1.0.1\\r2api.contentmanagement.1.0.1.nupkg.sha512",
-    "C:\\Users\\dirkj\\.nuget\\packages\\r2api.core\\5.0.8\\r2api.core.5.0.8.nupkg.sha512",
-    "C:\\Users\\dirkj\\.nuget\\packages\\r2api.items\\1.0.3\\r2api.items.1.0.3.nupkg.sha512",
-    "C:\\Users\\dirkj\\.nuget\\packages\\r2api.language\\1.0.1\\r2api.language.1.0.1.nupkg.sha512",
     "C:\\Users\\dirkj\\.nuget\\packages\\riskofrain2.gamelibs\\1.2.4.4-r.1\\riskofrain2.gamelibs.1.2.4.4-r.1.nupkg.sha512",
-    "C:\\Users\\dirkj\\.nuget\\packages\\ror2bepinexpack\\1.7.0\\ror2bepinexpack.1.7.0.nupkg.sha512",
     "C:\\Users\\dirkj\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\dirkj\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",
     "C:\\Users\\dirkj\\.nuget\\packages\\system.collections.specialized\\4.3.0\\system.collections.specialized.4.3.0.nupkg.sha512",
