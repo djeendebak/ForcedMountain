@@ -8,3 +8,4 @@ C:\Users\dirkj\OneDrive\Documenten\DEV\ForcedMountain\ForcedMountain\obj\Debug\n
 C:\Users\dirkj\OneDrive\Documenten\DEV\ForcedMountain\ForcedMountain\obj\Debug\netstandard2.0\ForcedMountain.csproj.CoreCompileInputs.cache
 C:\Users\dirkj\OneDrive\Documenten\DEV\ForcedMountain\ForcedMountain\obj\Debug\netstandard2.0\ForcedMountain.dll
 C:\Users\dirkj\OneDrive\Documenten\DEV\ForcedMountain\ForcedMountain\obj\Debug\netstandard2.0\ForcedMountain.pdb
+C:\Users\dirkj\OneDrive\Documenten\DEV\ForcedMountain\ForcedMountain\obj\Debug\netstandard2.0\ForcedMountain.sourcelink.json
