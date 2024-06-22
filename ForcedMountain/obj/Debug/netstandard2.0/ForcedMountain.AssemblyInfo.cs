@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ForcedMountain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f9e4df65a850e00cc310224fe53f1911cc4584c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7d92ff543735f5ad571d68fe4b1aa71a4500148")]
 [assembly: System.Reflection.AssemblyProductAttribute("ForcedMountain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ForcedMountain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
