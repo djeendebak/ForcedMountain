@@ -20,8 +20,6 @@ namespace ForcedMountain
 
         private int mountainShrineCount = 0;
 
-        public BasePlugin BasePlugin { get; private set; }
-
         public void Awake()
         {
             Log.Init(Logger);
