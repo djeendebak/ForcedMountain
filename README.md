@@ -15,6 +15,7 @@ Run the release.bat to create a zip for upload to thunderstore
 - Add messages to show the amount of mountains shrines in the map
 - Add a scanner to the portal to find the remaining mountain shrines
 - Add an on screen counter for the mountain shrines
+- Add a config option to auto activate all srhines
 
 ## Current known bugs
 -
