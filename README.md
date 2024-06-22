@@ -4,7 +4,8 @@ V1.0.0 - 22/06/2024
 
 ### Made by @djeendebak
 
-Rum the release.bat to create a zip for upload to thunderstore
+For new release. Update version in ForcedMountain.cs and manifest.json.
+Run the release.bat to create a zip for upload to thunderstore
 
 ## Current Functionality
 - Only lets you activate the portal if all mountain shrines have been activated.
