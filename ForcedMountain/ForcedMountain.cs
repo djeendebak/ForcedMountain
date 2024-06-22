@@ -11,7 +11,7 @@ namespace ForcedMountain
         public const string PluginGUID = PluginAuthor + "." + PluginName;
         public const string PluginAuthor = "FakeDuck";
         public const string PluginName = "ForcedMountain";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.0.2";
 
         private int mountainShrineCount = 0;
 
